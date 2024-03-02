@@ -1,2 +1,2 @@
-This file is made by Amr ALy and Mohamed Sharawy
+This file is made by Amr ALy
 for project Simple shell
