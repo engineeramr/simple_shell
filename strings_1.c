@@ -136,3 +136,4 @@ char *str_cat(char *s1, char *s2)
 	s1[i] = '\0';
 	return (s1);
 }
+

@@ -1,2 +1,1 @@
-This file is made by Amr ALy
-for project Simple shell
+Simple shell project made by Amr ALy using vs code 
