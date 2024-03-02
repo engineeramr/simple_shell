@@ -1,1 +1,3 @@
-Simple shell project made by Amr ALy using vs code 
+Simpleshell project made by Amr ALy using Vs code 
+
+I Love ALX 
